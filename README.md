@@ -1,6 +1,6 @@
 # Inventory_Management_System
 
-inventory management system project in PHP focuses mainly on dealing with products regarding their sales and other pieces of information. 
+Inventory management system project in PHP focuses mainly on dealing with products regarding their sales and other pieces of information. 
 Also, it displays all the available data such as total users, categories, products, and sales.
 The project is divided into three categories: Admin, Special User, and User Login, but the admin can manage it up to his/her choice from
 the user group management section. In an overview of this web app, the admin has full control of the system, where he/she can manage all 
