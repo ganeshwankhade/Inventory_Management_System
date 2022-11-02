@@ -37,6 +37,8 @@ AVAILABLE FEATURES:
     There you’ll find a folder naming “htdocs”.
     Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
     Open your browser
+    
+    <a href="[https://www.google.com/](http://localhost/phpmyadmin)" target="_blank">Google</a>
     Then, go to URL [http://localhost/phpmyadmin].
     Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”.
     Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
