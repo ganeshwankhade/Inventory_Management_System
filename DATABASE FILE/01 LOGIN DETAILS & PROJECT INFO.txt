@@ -1,10 +1,5 @@
 **Database Name: inventory_system**
 
-**Developed by Siamon Hasan**
-
-**Recommended PHP Version 5.6.3**
-
-
 **Admin Login Details**
 
 Username: admin
